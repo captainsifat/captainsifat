@@ -2,7 +2,7 @@
 <h3 align="center">Reducing user stress is a pleasure & my most excellent expertise.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captainsifat&label=Profile%20views&color=0e75b6&style=flat" alt="captainsifat" /> </p>
-<a href="https://photos.app.goo.gl/c2WMmdPeQitTJLGt7"><img src="https://photos.app.goo.gl/c2WMmdPeQitTJLGt7.jpg"title="photos.google.com"/></a>
+<a href="https://photos.app.goo.gl/c2WMmdPeQitTJLGt7"><img src="https://photos.app.goo.gl/c2WMmdPeQitTJLGt7.jpg"title="[photos.google.com](https://photos.app.goo.gl/c2WMmdPeQitTJLGt7)"/></a>
 - 🔭 I’m currently working on **FrontEnd Developer**
 
 - 🌱 I’m currently learning **AngularJS, MongoDB**
